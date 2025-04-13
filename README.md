@@ -1,7 +1,7 @@
 ## CreateHER Fest: Hack for Social Good | Winner Blockchain 2nd Place Prize: Let's Vent
 
 ## The Let's Vent Chatbot: Emotional Support Chatbot with CBT Techniques
-A friendly chatbot that listens to user feelings, detects sentiment, and responds with structured prompts inspired by Cognitive Behavioral Therapy (CBT). The bot is not a substitute for professional mental health care—it’s more like a supportive friend that uses evidence-based conversation techniques.
+Let’s Vent is an empathetic AI for safely unloading your emotions from heartbreak, family rifts, or work stress. Not a therapist, just a supportive, nonjudgmental companion to find relief and to heal.A friendly chatbot that listens to user feelings, detects sentiment, and responds with structured prompts inspired by Cognitive Behavioral Therapy (CBT). The bot is not a substitute for professional mental health care—it’s more like a supportive friend that uses evidence-based conversation techniques.
 
 ## Table of Contents
 - Overview
