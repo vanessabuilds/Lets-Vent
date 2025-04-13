@@ -45,5 +45,5 @@ The `/frontend` folder contains web assets for the application's user interface.
  - Vanessa Saunders
  - Misty Waters
 
-Watch the demo (https://youtu.be/AWhu1VR2K-Y)
-DevPost Submission Link: 
+- Watch the demo (https://youtu.be/AWhu1VR2K-Y)
+- DevPost Submission Link: https://devpost.com/software/let-s-vent?_gl=1*d3qfp2*_gcl_au*Njg0ODA1OTM2LjE3NDIwNDk1MTc.*_ga*MjY3MDAwOTkzLjE3NDIwNDk1MTk.*_ga_0YHJK3Y10M*MTc0NDU3MzY5NC4yLjEuMTc0NDU3MzczMi4wLjAuMA..
